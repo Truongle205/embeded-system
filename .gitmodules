@@ -1,4 +1,0 @@
-[submodule "YoloUNO_PlatformIO-LED_Blinky"]
-	path = YoloUNO_PlatformIO-LED_Blinky
-	url = https://github.com/Truongle205/embeded-system.git
-	branch = main
