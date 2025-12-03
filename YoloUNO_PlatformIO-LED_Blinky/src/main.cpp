@@ -15,7 +15,7 @@ void TaskBlink(void *pvParameters) {
     Serial.println("LED OFF");
     }
     ledState = 1 - ledState;
-    vTaskDelay(pdMS_TO_TICKS(500));  
+    vTaskDelay(pdMS_TO_TICKS(2000));  
   }
 }
 
